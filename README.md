@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a github belonging to Phuong Dang. Please feel free to explore and enjoy some of the acedemic projects that I was done during my master of Statistics and Data Science at KU Leuven. 
+This is a github belonging to Phuong Dang. Please feel free to explore and enjoy some of the acedemic projects that I have done during my master of Statistics and Data Science at KU Leuven. 
 
 Here are some ideas to get you started:
 
