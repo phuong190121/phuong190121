@@ -1,4 +1,4 @@
-###### Introduction ######
+## Introduction ##
 
 Finance plays a vital role in the social-economy sector, especially in financial well-being. Financial behaviour of individuals contributes to the financial health of local communities and a whole country. In 2016, the US government collaborated with the Consumer Financial Protection Bureau (CFPB) department to implement the financial well-being survey [14] to understand the financial management of households.
  
